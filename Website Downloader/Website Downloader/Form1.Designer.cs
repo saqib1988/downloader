@@ -150,7 +150,7 @@
             this.Controls.Add(this.selectFolder);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
-            this.Text = "Selector";
+            this.Text = "OfflineWebsiteDownloader: Step-1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

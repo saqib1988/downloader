@@ -60,6 +60,48 @@ namespace Website_Downloader.Properties {
             }
         }
         
+        internal static System.Drawing.Bitmap Button_Close_icon {
+            get {
+                object obj = ResourceManager.GetObject("Button-Close-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Button_Fast_Forward_icon {
+            get {
+                object obj = ResourceManager.GetObject("Button-Fast-Forward-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Button_Play_icon {
+            get {
+                object obj = ResourceManager.GetObject("Button-Play-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Button_Refresh_icon {
+            get {
+                object obj = ResourceManager.GetObject("Button-Refresh-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Button_Rewind_icon {
+            get {
+                object obj = ResourceManager.GetObject("Button-Rewind-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap logo2 {
+            get {
+                object obj = ResourceManager.GetObject("logo2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         internal static System.Drawing.Bitmap Untitled_1_copy {
             get {
                 object obj = ResourceManager.GetObject("Untitled-1 copy", resourceCulture);
